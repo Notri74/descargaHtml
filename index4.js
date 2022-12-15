@@ -1,4 +1,4 @@
-const fs = require("fs");
+const file = require("fs");
 const request = require("request");
 
 const req = http.request("http://example.com", (res) => {
